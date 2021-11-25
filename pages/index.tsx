@@ -35,7 +35,7 @@ export default function Home() {
   };
 
   return (
-    <div className={styles.container}>
+    <div className={styles.Container}>
       <Head>
         <meta
           name="viewport"
